@@ -1,5 +1,5 @@
 # Hello-World
 My First Repository
 
-Neeraj Kumar here, I an currently persuing my bachlors in data science.
-I love machine learning and statistics
+Neeraj Kumar here, I an currently persuing B.tech in CSE.
+I am Interested in competitive coding.
